@@ -1,0 +1,31 @@
+{
+  "name": "takarago",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grpc": "^1.16.1",
+    "bitcoind-rpc": "^0.7.0",
+    "bitcoinjs-lib": "^3.3.2",
+    "body-parser": "^1.18.2",
+    "bufferutil": "1.2.1",
+    "crypto": "^1.0.1",
+    "coinselect": "^3.1.11",
+    "cors": "^2.8.4",
+    "counterjs": "git+https://github.com/mandelmonkey/CounterJS.git#61c380e080",
+    "express": "4.13.4",
+    "nodemailer": "^4.4.2",
+    "pg": "^7.4.1",
+    "pg-promise": "^7.4.1",
+    "request": "^2.83.0",
+    "utf-8-validate": "1.2.1",
+    "wif": "^2.0.6",
+    "express-basic-auth": "^1.1.5",
+    "express-rate-limit": "^2.11.0"
+  }
+}
