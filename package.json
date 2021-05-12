@@ -19,7 +19,7 @@
     "cors": "^2.8.4",
     "counterjs": "git+https://github.com/mandelmonkey/CounterJS.git#61c380e080",
     "express": "4.13.4",
-    "nodemailer": "^4.4.2",
+    "nodemailer": "^6.4.16",
     "pg": "^7.4.1",
     "pg-promise": "^7.4.1",
     "request": "^2.83.0",
