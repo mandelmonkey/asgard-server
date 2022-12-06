@@ -18,7 +18,7 @@
     "coinselect": "^3.1.11",
     "cors": "^2.8.4",
     "counterjs": "git+https://github.com/mandelmonkey/CounterJS.git#61c380e080",
-    "express": "4.13.4",
+    "express": "4.17.3",
     "nodemailer": "^4.4.2",
     "pg": "^7.4.1",
     "pg-promise": "^7.4.1",
